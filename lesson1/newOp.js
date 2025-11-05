@@ -3,4 +3,3 @@ let num1 = 10,
     result;
 
 result ??= num1 ?? num2;
-console.log(result)
